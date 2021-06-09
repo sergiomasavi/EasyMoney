@@ -129,3 +129,4 @@ dmypy.json
 .pyre/
 /data/
 /data/raw_data/*.csv
+/secrets/*
