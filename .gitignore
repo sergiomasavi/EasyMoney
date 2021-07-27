@@ -2,3 +2,4 @@
 /resources/Nuclio/
 .DS_Store
 /.idea/
+*.csv
