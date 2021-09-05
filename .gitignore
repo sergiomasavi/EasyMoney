@@ -3,3 +3,9 @@
 .DS_Store
 /.idea/
 /Reporting/Tarea 1. Analisis/data/
+*.csv
+/*.csv
+Tarea1.1_Analisis_Productos.py
+/.idea
+.idea/
+
